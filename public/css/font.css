@@ -1,0 +1,140 @@
+@font-face{
+
+    font-family: 'GothamProMedium';
+
+    src: url('GothamPro/GothamProMedium.ttf');
+
+    url('GothamPro/GothamProMedium.ttf') format('truetype')
+
+    font-weight: normal;
+
+    font-style: normal;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProMediumItalic';
+
+    src: url('GothamPro/GothamProMediumItalic.ttf');
+
+url('GothamPro/GothamProMediumItalic.ttf') format('truetype')
+
+font-weight: normal;
+
+    font-style: italic;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProRegular';
+
+    src: url('GothamPro/GothamProRegular.ttf');
+
+url('GothamPro/GothamProMediumRegular.ttf') format('truetype')
+
+font-weight: normal;
+
+    font-style: normal;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProItalic';
+
+    src: url('GothamPro/GothamProItalic.ttf');
+
+url('GothamPro/GothamProMediumItalic.ttf') format('truetype')
+
+font-weight: normal;
+
+    font-style: italic;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProLight';
+
+    src: url('GothamPro/GothamProLight.ttf');
+
+url('GothamPro/GothamProLight.ttf') format('truetype')
+
+font-weight: light;
+
+    font-style: normal;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProLightItalic';
+
+    src: url('GothamPro/GothamProLightItalic.ttf');
+
+url('GothamPro/GothamProMediumLightItalic.ttf') format('truetype')
+
+font-weight: light;
+
+    font-style: italic;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProBold';
+
+    src: url('GothamPro/GothamProBold.ttf');
+
+url('GothamPro/GothamProMediumBold.ttf') format('truetype')
+
+font-weight: bold;
+
+    font-style: normal;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProBoldItalic';
+
+    src: url('GothamPro/GothamProBoldItalic.ttf');
+
+url('GothamPro/GothamProMediumBoldItalic.ttf') format('truetype')
+
+font-weight: bold;
+
+    font-style: italic;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProBlack';
+
+    src: url('GothamPro/GothamProBlack.ttf');
+
+url('GothamPro/GothamProBlack.ttf') format('truetype')
+
+font-weight: normal;
+
+    font-style: normal;
+
+}
+
+@font-face{
+
+    font-family: 'GothamProBlackItalic';
+
+    src: url('GothamPro/GothamProBlackItalic.ttf');
+
+url('GothamPro/GothamProBlackItalic.ttf') format('truetype')
+
+font-weight: normal;
+
+    font-style: italic;
+
+}
+

@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: transform .2s, color .2s, background-color .2s;
+    font-family: Open Sans, sans-serif;
+
+}
+
+body {
+    width: 100%;
+    font-family: GothamProBold,sans-serif;
+}
+
+div {
+    display: inline-block;
+}
+
+#image_holder {
+    height: 200px;
+    overflow: hidden;
+    margin-top: 5vh;
+}
+
+#congratulations,.congratulations_text {
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+    font-size: 14px;
+    text-align: center;
+}
+
+#congratulations {
+    font-weight: 900;
+    font-size: 18px;
+
+}
+
